@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+A new Flutter project which you can know the current weather of your city or country by search with name .
 
 ## Getting Started
 
